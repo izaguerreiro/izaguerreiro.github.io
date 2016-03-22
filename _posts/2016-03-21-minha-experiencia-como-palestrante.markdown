@@ -38,6 +38,6 @@ header-img: "img/post-bg-06.jpg"
 <span class="caption text-muted">Palestrantes Woman Techmakers Vale</span>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/galera-woman-teckmakers.jpeg" alt="Galera Woman Teckmakers Vale">
+    <img src="{{ site.baseurl }}/img/galera-woman-techmakers.jpeg" alt="Galera Woman Techmakers Vale">
 </a>
 <span class="caption text-muted">Galera Woman Techmakers Vale</span>
